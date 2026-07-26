@@ -4,7 +4,7 @@
 (Dr. Sci. (Sociology), RANEPA — Russian Presidential Academy of National Economy and Public
 Administration, Moscow).
 
-<!-- DOI badge added after the Zenodo release -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21610439.svg)](https://doi.org/10.5281/zenodo.21610439)
 
 - **Original (Russian):** Газиева И.А. Эмпирическая модель анализа социальных ценностей студенческой
   молодежи // Государственное и муниципальное управление. Ученые записки. 2025. № 2. С. 230–240.
@@ -12,6 +12,7 @@ Administration, Moscow).
   <https://www.elibrary.ru/item.asp?edn=VRZLPQ>
 - **Author:** Inna A. Gazieva · [ORCID 0000-0002-0778-7171](https://orcid.org/0000-0002-0778-7171)
   · [Wikidata Q140355257](https://www.wikidata.org/wiki/Q140355257) · [inna-gazieva.ru](https://inna-gazieva.ru/)
+- **This translation (DOI):** [10.5281/zenodo.21610439](https://doi.org/10.5281/zenodo.21610439) · Zenodo · v1.0 · 2026-07-26
 - **Translation license:** CC BY 4.0 (see [LICENSE.md](LICENSE.md))
 
 ## Abstract
