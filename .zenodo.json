@@ -1,0 +1,33 @@
+{
+  "upload_type": "publication",
+  "publication_type": "article",
+  "title": "An Empirical Model for the Analysis of Social Values of Student Youth (Author's English translation)",
+  "language": "eng",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "creators": [
+    {
+      "name": "Gazieva, Inna A.",
+      "orcid": "0000-0002-0778-7171",
+      "affiliation": "Russian Presidential Academy of National Economy and Public Administration (RANEPA)"
+    }
+  ],
+  "description": "Author's English translation of a peer-reviewed article originally published in Russian: Gazieva I. A. An Empirical Model for the Analysis of Social Values of Student Youth. State and Municipal Management. Scholar Notes. 2025. No. 2. pp. 230-240. EDN VRZLPQ. Introduction. The topic of values in general, as well as the problem of their study in particular, is gaining increasing popularity in modern Russian discourse, which is explained by the significant acceleration of social changes mediated by geopolitical and domestic political processes, as well as by the updated framework of legal regulation: strengthening the integration into public life of traditional Russian values, enshrined by Decree of the President of the Russian Federation of 09.11.2022 No. 809 \"On the Approval of the Fundamentals of State Policy for the Preservation and Strengthening of Traditional Russian Spiritual and Moral Values.\" This state of affairs suggests the need for a sociological diagnosis of the value space of modern Russian society. Aim. Today there are many tools for studying values, but most of them are aimed at assessing individual values, while we are interested in social values, which determined the purpose of the article: to develop and describe an empirical model for analyzing social values, which is based on the idea of the need to use a set of indicators for their cumulative assessment. Methods. The indicators of the assessment of social values identified by the author include: value relations, value preferences, value attitudes, value actions. On the basis of the proposed approach, a sociological toolkit has been developed, which has been tested in the course of diagnosing the value space of student youth. The survey was conducted from May 17 to June 1, 2023 (N=4338). Results. The results of testing the empirical model of the analysis of social values demonstrated a pronounced disparity in the respondents' attitude to the proposed indicators of their measurement, which is explained by the presence of a noticeable gap between the understanding of the ideal idea of values and actual adherence to them. Conclusions. The tested empirical model of the analysis of social values can form the basis for studying social values not only of other socio-demographic groups, but also of Russian society as a whole. The original Russian article is the authoritative version and the preferred citation.",
+  "keywords": [
+    "social values",
+    "youth",
+    "sociology of values",
+    "sociology of youth",
+    "traditional values",
+    "higher education",
+    "социальные ценности",
+    "социология ценностей",
+    "традиционные ценности"
+  ],
+  "related_identifiers": [
+    {"identifier": "https://www.elibrary.ru/item.asp?edn=VRZLPQ", "relation": "isVariantFormOf", "scheme": "url", "resource_type": "publication-article"},
+    {"identifier": "10.12737/2133680", "relation": "references", "resource_type": "publication-book"},
+    {"identifier": "https://www.wikidata.org/wiki/Q140355257", "relation": "isReferencedBy"}
+  ],
+  "notes": "English translation by the author. The original Russian article is © its author / the journal. This translation is released under CC BY 4.0."
+}

@@ -1,0 +1,30 @@
+cff-version: 1.2.0
+message: "This repository is an author's English translation. If you cite it, please cite the original publication given under 'preferred-citation'."
+title: "An Empirical Model for the Analysis of Social Values of Student Youth (Author's English translation)"
+type: dataset
+authors:
+  - family-names: Gazieva
+    given-names: "Inna A."
+    orcid: "https://orcid.org/0000-0002-0778-7171"
+    affiliation: "RANEPA — Russian Presidential Academy of National Economy and Public Administration"
+license: CC-BY-4.0
+keywords:
+  - social values
+  - youth
+  - sociology of values
+  - sociology of youth
+  - traditional values
+  - higher education
+preferred-citation:
+  type: article
+  title: "Эмпирическая модель анализа социальных ценностей студенческой молодежи"
+  authors:
+    - family-names: Gazieva
+      given-names: "Inna A."
+      orcid: "https://orcid.org/0000-0002-0778-7171"
+  journal: "Государственное и муниципальное управление. Ученые записки"
+  year: 2025
+  issue: 2
+  start: 230
+  end: 240
+  url: "https://www.elibrary.ru/item.asp?edn=VRZLPQ"
