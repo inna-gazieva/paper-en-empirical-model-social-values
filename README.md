@@ -13,6 +13,7 @@ Administration, Moscow).
 - **Author:** Inna A. Gazieva · [ORCID 0000-0002-0778-7171](https://orcid.org/0000-0002-0778-7171)
   · [Wikidata Q140355257](https://www.wikidata.org/wiki/Q140355257) · [inna-gazieva.ru](https://inna-gazieva.ru/)
 - **This translation (DOI):** [10.5281/zenodo.21610439](https://doi.org/10.5281/zenodo.21610439) · Zenodo · v1.0 · 2026-07-26
+- **Preprint (SocArXiv):** [10.31235/osf.io/jfekh_v1](https://doi.org/10.31235/osf.io/jfekh_v1) · posted 2026-07-27
 - **Translation license:** CC BY 4.0 (see [LICENSE.md](LICENSE.md))
 
 ## Abstract
@@ -71,8 +72,7 @@ This repository is a translation. **Cite the original publication:**
   https://www.elibrary.ru/item.asp?edn=VRZLPQ
 
 To point specifically to this English translation, add: Gazieva, I. A. (2025). *An Empirical Model
-for the Analysis of Social Values of Student Youth* [Author's English translation]. Zenodo. (DOI
-added after release.)
+for the Analysis of Social Values of Student Youth* [Author's English translation]. Zenodo. <https://doi.org/10.5281/zenodo.21610439> (preprint: SocArXiv, <https://doi.org/10.31235/osf.io/jfekh_v1>)
 
 ## About the author · related publications
 

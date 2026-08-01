@@ -25,9 +25,26 @@
     "традиционные ценности"
   ],
   "related_identifiers": [
-    {"identifier": "https://www.elibrary.ru/item.asp?edn=VRZLPQ", "relation": "isVariantFormOf", "scheme": "url", "resource_type": "publication-article"},
-    {"identifier": "10.12737/2133680", "relation": "references", "resource_type": "publication-book"},
-    {"identifier": "https://www.wikidata.org/wiki/Q140355257", "relation": "isReferencedBy"}
+    {
+      "identifier": "https://www.elibrary.ru/item.asp?edn=VRZLPQ",
+      "relation": "isVariantFormOf",
+      "scheme": "url",
+      "resource_type": "publication-article"
+    },
+    {
+      "identifier": "10.12737/2133680",
+      "relation": "references",
+      "resource_type": "publication-book"
+    },
+    {
+      "identifier": "https://www.wikidata.org/wiki/Q140355257",
+      "relation": "isReferencedBy"
+    },
+    {
+      "identifier": "10.31235/osf.io/jfekh_v1",
+      "relation": "isIdenticalTo",
+      "resource_type": "publication-preprint"
+    }
   ],
   "notes": "English translation by the author. The original Russian article is © its author / the journal. This translation is released under CC BY 4.0."
 }

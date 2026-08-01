@@ -16,6 +16,10 @@ keywords:
   - traditional values
   - higher education
 doi: 10.5281/zenodo.21610439
+identifiers:
+  - type: doi
+    value: 10.31235/osf.io/jfekh_v1
+    description: "SocArXiv preprint of this translation"
 version: "v1.0"
 date-released: 2026-07-26
 preferred-citation:
